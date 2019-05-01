@@ -238,6 +238,7 @@ spacing = 2
 [cc]
 inherits = ["xx-cc"]
 spacing = 3
+disableLigation = true
 
 ###### Widths
 # NOTE: this section is highly experimental
