@@ -2,6 +2,8 @@
 
 这个是 [Iosevka](https://github.com/be5invis/Iosevka) 中 `cc` 字体的非连体字版的修改方法。
 
+** 本工程是基于 [Iosevka](https://github.com/be5invis/Iosevka) 2.2.1 测试通过。
+
 ## 修改方法
 
 修改 `parameters.toml` 文件，在该文件里找到以下内容
